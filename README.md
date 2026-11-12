@@ -1,6 +1,3 @@
-<h1 align="center">
-Welcome friends and hello foes!
-  
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1535761425270841365/1570111461894922260/75665994_original3.png?ex=6af5e7bf&is=6af4963f&hm=3c15911bdb8292710a50933885b688b58c62c4171073c104bbcd62cf87591730&=&format=webp&quality=lossless" width="70%" />
 </p>
@@ -15,7 +12,7 @@ Welcome friends and hello foes!
   
 <p align="center">
 <sub>
-  " [After this run is over, we're getting lunch!] "
+  " [Gay quote] "
 </sub>
 </p>
 
@@ -29,11 +26,11 @@ Welcome friends and hello foes!
   <p align="center">
   </p>
 <p align="center">
-    NAME — Vanity, Van, Vannie, Vanbug
+    NAME — [Nickname]
     <br>
-    PRONOUNS — Any [gender apathetic/apagender]
+    PRONOUNS — [Pronouns]
     <br>
-    TIMEZONE — Western Indonesia Time
+    TIMEZONE — [Timezone]
 </p>
 
 <p align="center">
@@ -43,7 +40,7 @@ Welcome friends and hello foes!
 <h2 align="center">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</h2>
 
 <p align="center">
-Introduction
+Introduction (type here smth idk)
 <br><br>
 
 </p>
