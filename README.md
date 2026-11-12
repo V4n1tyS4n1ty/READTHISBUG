@@ -29,11 +29,11 @@ Welcome friends and hello foes!
   <p align="center">
   </p>
 <p align="center">
-    NAME — [Nickname]
+    NAME — Vanity, Van, Vannie, Vanbug
     <br>
-    PRONOUNS — [Pronouns]
+    PRONOUNS — Any [gender apathetic/apagender]
     <br>
-    TIMEZONE — [Timezone]
+    TIMEZONE — Western Indonesia Time
 </p>
 
 <p align="center">
