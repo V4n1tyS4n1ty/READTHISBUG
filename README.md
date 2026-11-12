@@ -1,5 +1,5 @@
-<p align="center">
-# VANITYSABOUTME!
+<h1 align="center">
+VANITYSABOUTME!
   
 <p align="center">
 welcome friends and hello foes!
