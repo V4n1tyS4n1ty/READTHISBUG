@@ -1,4 +1,4 @@
-<p align="center"
+<p align="center">
 # VANITYSABOUTME!
 welcome friends and hello foes!
 <p align="center">
