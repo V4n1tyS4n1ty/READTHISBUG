@@ -14,7 +14,7 @@ about me!
   
 <p align="center">
 <sub>
-  " [Gay quote] "
+  " [After this run is over, we're getting lunch!] "
 </sub>
 </p>
 
