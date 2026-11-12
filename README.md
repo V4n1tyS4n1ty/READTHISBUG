@@ -40,7 +40,7 @@
 <h2 align="center">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</h2>
 
 <p align="center">
-Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently a biology major!
+Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently a biology major! I was diagnosed with persistent depressive disorder n i suspect myself to have ADHD, though i haven't tried getting diagnosed due to financial issues. I love chatting with people! i'm just VERY VERY shy at first n overthink a lot!
 <br><br>
 
 </p>
