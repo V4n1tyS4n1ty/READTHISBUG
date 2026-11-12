@@ -26,11 +26,11 @@
   <p align="center">
   </p>
 <p align="center">
-    NAME — [Nickname]
+    NAME — Van, Vannie, Vanbug
     <br>
-    PRONOUNS — [Pronouns]
+    PRONOUNS — Any [gender apathethic/apagender]
     <br>
-    TIMEZONE — [Timezone]
+    TIMEZONE — Western Indonesia Time
 </p>
 
 <p align="center">
