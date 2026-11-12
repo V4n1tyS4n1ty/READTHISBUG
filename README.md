@@ -43,8 +43,9 @@ Welcome friends and hello foes!
 <h2 align="center">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</h2>
 
 <p align="center">
-Introduction (type here smth idk)
-<br><br>
+Introduction
+<br>
+test
 
 </p>
 
