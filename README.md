@@ -62,9 +62,9 @@ Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently 
 </p>
 
 <p align="center">
-OTHER · OTHER · OTHER
+HETALIA · WHAT IN HELL IS BAD? · NU CARNIVAL
 <br>
-OTHER · OTHER ·OTHER
+ORNITHOLOGY · RESIDENT EVIL · AND SO MUCH MORE!
 </p>
 
 <p align="center">
