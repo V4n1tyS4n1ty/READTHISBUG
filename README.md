@@ -29,6 +29,9 @@ Welcome friends and hello foes!
   <p align="center">
   </p>
 <p align="center">
+  <color style="red">
+    <color style="Yellow">
+      <color style="Black">
     NAME — Vanity, Van, Vannie, Vanbug
     <br>
     PRONOUNS — Any [gender apathetic/apagender]
