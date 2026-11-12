@@ -40,7 +40,7 @@
 <h2 align="center">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</h2>
 
 <p align="center">
-Introduction (type here smth idk)
+Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently a biology major!
 <br><br>
 
 </p>
