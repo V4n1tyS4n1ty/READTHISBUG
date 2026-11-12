@@ -1,8 +1,5 @@
 <h1 align="center">
-VANITYSABOUTME!
-  
-<p align="center">
-welcome friends and hello foes!
+Welcome friends and hello foes!
   
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1535761425270841365/1570111461894922260/75665994_original3.png?ex=6af5e7bf&is=6af4963f&hm=3c15911bdb8292710a50933885b688b58c62c4171073c104bbcd62cf87591730&=&format=webp&quality=lossless" width="70%" />
