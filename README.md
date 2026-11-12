@@ -84,15 +84,15 @@ ORNITHOLOGY · RESIDENT EVIL · AND SO MUCH MORE!
 <p align="center">
   ──────── ⋆ ────────
   <br><br>
-  Ⅰ. txt
+  Ⅰ. HETALIA
   <br>
-  Ⅱ. txt
+  Ⅱ. WHAT IN HELL IS BAD
   <br>
-  Ⅲ. txt
+  Ⅲ. NU CARNIVAL
   <br>
-  Ⅳ. txt
+  Ⅳ. RESIDENT EVIL
   <br>
-  Ⅴ. txt
+  Ⅴ. A DATE WITH DEATH
   <br><br>
   ──────── ⋆ ────────
 </p>
