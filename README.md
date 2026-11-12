@@ -29,7 +29,7 @@ Welcome friends and hello foes!
   <p align="center">
   </p>
 <p align="center">
-<p color style="red">    NAME — Vanity, Van, Vannie, Vanbug
+    NAME — Vanity, Van, Vannie, Vanbug
     <br>
     PRONOUNS — Any [gender apathetic/apagender]
     <br>
