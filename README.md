@@ -62,9 +62,9 @@ Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently 
 </p>
 
 <p align="center">
-HETALIA · WHAT IN HELL IS BAD? · NU CARNIVAL
+DRAWING · WRITING · BIRDWATCHING
 <br>
-ORNITHOLOGY · RESIDENT EVIL · AND SO MUCH MORE!
+ORNITHOLOGY · LISTENING TO MUSIC · AND SO MUCH MORE!
 </p>
 
 <p align="center">
