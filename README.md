@@ -130,6 +130,7 @@ No unwanted familiarity · Respect privacy
 <p align="center">
   <a href="https://vanbugzz.straw.page/">
     𝙼𝚢 𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎
+    <br></br>
  <a href="https://docs.google.com/document/d/1wyNzg1tvnImvx21BDV3Mm0mzSOJ399_FvMTk8GSRl20/edit?usp=drivesdk">
    Read before interacting!
 <p align="center">
