@@ -130,6 +130,8 @@ No unwanted familiarity · Respect privacy
 <p align="center">
   <a href="https://vanbugzz.straw.page/">
     𝙼𝚢 𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎
+ <a href="https://docs.google.com/document/d/1wyNzg1tvnImvx21BDV3Mm0mzSOJ399_FvMTk8GSRl20/edit?usp=drivesdk">
+   Read before interacting!
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━
   <img src="https://media.discordapp.net/attachments/1535761425270841365/1570111461894922260/75665994_original3.png?ex=6af5e7bf&is=6af4963f&hm=3c15911bdb8292710a50933885b688b58c62c4171073c104bbcd62cf87591730&=&format=webp&quality=lossless" width="70%" />
