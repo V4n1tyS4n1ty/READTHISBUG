@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://tenor.com/gpWax13oj1z.gif"/>
+<img src="[https://tenor.com/gpWax13oj1z.gif](https://klipy.com/gifs/ludwig-8)"/>
 </p>
 
 <h1 align="center">
