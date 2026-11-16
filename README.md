@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1546911644653723749/1571740098096140288/germany.png?ex=6afbd488&is=6afa8308&hm=47f7ba71a836d86075bbf0a07fa82ea3c322a9aeb2b317cbf25ca9f3d23ed28c&format=webp&quality=lossless"/>
-"/>
 </p>
 
 <h1 align="center">
