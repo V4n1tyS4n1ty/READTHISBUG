@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://media.discordapp.net/attachments/1546911644653723749/1571729659580645507/5d7e1a335cd01304ab23debdcc69d1e1.png?ex=6afbcad0&is=6afa7950&hm=140947c24b14f232ea09bfea3e3a4a13e04a1e2d09c7c1e855073053e7248843&format=webp&quality=lossless](https://klipy.com/gifs/ludwig-8)" />
+<img src="[https://media.discordapp.net/attachments/1546911644653723749/1571729659580645507/5d7e1a335cd01304ab23debdcc69d1e1.png?ex=6afbcad0&is=6afa7950&hm=140947c24b14f232ea09bfea3e3a4a13e04a1e2d09c7c1e855073053e7248843&format=webp&quality=lossless](https://klipy.com/gifs/ludwig-8)"/>
 "/>
 </p>
 
