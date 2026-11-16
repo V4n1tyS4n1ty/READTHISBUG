@@ -5,8 +5,7 @@
 <h1 align="center">
   𝚅𝚊𝚗ity!
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1546911644653723749/1571741649787158539/003f9c39f392b833b48373ce63870195.png?ex=6afbd5fa&is=6afa847a&hm=3b9590e7cce32e2e5b2f49c238b00410fe24a0ff361503466b19211e70719808&format=webp&quality=lossless" />
-" />
+<img src="https://media.discordapp.net/attachments/1546911644653723749/1571742411032625202/1cecf942ec92eebcb72aa7a925360fab.png?ex=6afbd6b0&is=6afa8530&hm=a6e88be81704c8307b73b9c19c8db0537d48baec48216cf0279cf5bd48f188a5&format=webp&quality=lossless" />
 <p align="center">
 𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋 𝐀𝐑𝐂𝐇𝐈𝐕𝐄
 </p>
