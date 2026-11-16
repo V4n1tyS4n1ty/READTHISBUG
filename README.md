@@ -29,11 +29,13 @@
   <p align="center">
   </p>
 <p align="center">
-    NAME — Van, Vannie, Vanbug, Verity [UNFORTUNATELY]
+    NAME — Vanity, Van, Vannie, Vanbug, Verity [UNFORTUNATELY]
     <br>
     PRONOUNS — Any [gender apathethic/apagender]
     <br>
     TIMEZONE — Western Indonesia Time
+    <br>
+    I'm a Hungary kin!
 </p>
 
 <p align="center">
