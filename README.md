@@ -68,7 +68,7 @@ Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently 
 <h2 align="center">𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓𝐒 & 𝐇𝐎𝐁𝐁𝐈𝐄𝐒</h2>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571789217250410526/73699d6ee03ec8ed889f9df9348763c0-Photoroom.png?ex=6afc0247&is=6afab0c7&hm=176c77bc2f5fe8093d48122b554fd513a69e20570a92ea5d485301a651957d2d" width="200"/>
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571789217250410526/73699d6ee03ec8ed889f9df9348763c0-Photoroom.png?ex=6afc0247&is=6afab0c7&hm=176c77bc2f5fe8093d48122b554fd513a69e20570a92ea5d485301a651957d2d" width="200%"/>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ ORNITHOLOGY · LISTENING TO MUSIC · AND SO MUCH MORE!
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1535761425270841365/1570171343452901407/tumblr_2968aee69a15433fbbcc1d554fe1951f_9da0b591_6404.png?ex=6af61f84&is=6af4ce04&hm=05aa7c904b0366a25e2060a5357cc0e9191b70d3e4b9bd24878079db6d858ddd&=&format=webp&quality=lossless" width="22%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571790335674286170/1421ee693a964e2b1cc4a7aee6680331-Photoroom.png?ex=6afc0352&is=6afab1d2&hm=59212853ab5d23eeb69fef5340d89d01fbf2ca6dcabced1a0e54637274b79414"width="200%" />
 </p>
 
 <h2 align="center">𝐅𝐀𝐍𝐃𝐎𝐌𝐒</h2>
