@@ -86,7 +86,7 @@ ORNITHOLOGY · LISTENING TO MUSIC · AND SO MUCH MORE!
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1535761425270841365/1570171343452901407/tumblr_2968aee69a15433fbbcc1d554fe1951f_9da0b591_6404.png?ex=6af61f84&is=6af4ce04&hm=05aa7c904b0366a25e2060a5357cc0e9191b70d3e4b9bd24878079db6d858ddd&=&format=webp&quality=lossless" width="35%" />
+<img src="https://media.discordapp.net/attachments/1535761425270841365/1570171343452901407/tumblr_2968aee69a15433fbbcc1d554fe1951f_9da0b591_6404.png?ex=6af61f84&is=6af4ce04&hm=05aa7c904b0366a25e2060a5357cc0e9191b70d3e4b9bd24878079db6d858ddd&=&format=webp&quality=lossless" width="22%" />
 </p>
 
 <h2 align="center">𝐅𝐀𝐍𝐃𝐎𝐌𝐒</h2>
