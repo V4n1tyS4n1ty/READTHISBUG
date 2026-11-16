@@ -14,9 +14,9 @@
 </h1>
   
 <h3 align="center">
-<sub>
+<p>
   " After this run is over, we're getting lunch! "
-</sub>
+</p>
 </h3>
 
 <p align="center">
