@@ -20,7 +20,7 @@
 </h3>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1535761425270841365/1570109204424040648/ba2a391f1.png?ex=6af5e5a5&is=6af49425&hm=555849dc90e3cecae82d306e0faee424a4577781a729c72a706b011fd505ec1c&=&format=webp&quality=lossless" width="55%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571761589420425266/Untitled58_20261116123400.png?ex=6afbe88c&is=6afa970c&hm=a64fd273f72fe7ef4825983b600f06bce11d22e37dc6d8991aeddf0c37e71177&" width="55%" />
 </p>
 
 <h1 align="center">𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍</h1>
