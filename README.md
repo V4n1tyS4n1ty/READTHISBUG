@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1546911644653723749/1571740926362001499/32c1dbb9924f6007a079442ed752db4f.png?ex=6afbd54e&is=6afa83ce&hm=abd8ff97114ca25dcff96d22ae2492d0824b7e69f387b567375d99bc4806d6ed&format=webp&quality=lossless"/>
+<img src="https://media.discordapp.net/attachments/1546911644653723749/1571741282345291918/lace-border-png-6.png?ex=6afbd5a3&is=6afa8423&hm=d6b4eb8d3941324adab00fe00809f0427f7e1cd934283959a7da4c86e44bd36e&format=webp&quality=lossless"/>
 </p>
 
 <h1 align="center">
