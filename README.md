@@ -135,13 +135,13 @@ No unwanted familiarity · Respect privacy
 <h2 align="center">𝐅𝐈𝐍𝐀𝐋 𝐍𝐎𝐓𝐄</h2>
 <p align="center">
   <a href="https://vanbugzz.straw.page/">
-    𝙼𝚢 𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎
+    Strawpage!
     <br></br>
  <a href="https://docs.google.com/document/d/1wyNzg1tvnImvx21BDV3Mm0mzSOJ399_FvMTk8GSRl20/edit?usp=drivesdk">
    Read before interacting!
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━
-  <img src="https://media.discordapp.net/attachments/1535761425270841365/1570111461894922260/75665994_original3.png?ex=6af5e7bf&is=6af4963f&hm=3c15911bdb8292710a50933885b688b58c62c4171073c104bbcd62cf87591730&=&format=webp&quality=lossless" width="70%" />
+  <img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571807149108109313/70bb9d1b73f9047e1e5b54eb243dfa92.png?ex=6afc12fb&is=6afac17b&hm=6257cf7fe93a15fe975daa73244971824f2b869d49e8ad7cd4f4d42a06f6ff0b" width="70%" />
 </p>
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━
