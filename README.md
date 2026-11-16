@@ -45,7 +45,7 @@
 <h2 align="center">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</h2>
 
 <p align="center">
-<img src=""/>
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571774769815359599/Untitled59_20261116133139.jpg?ex=6afbf4d3&is=6afaa353&hm=207ef6a3a55dfdec1a6f9ad00607c746bec5567128de7b6a47873735fd10e54a&"/>
 </p>
 
 <p align="center">
