@@ -1,6 +1,6 @@
-<h1 align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571759456071716904/Untitled58_20261116123026.png?ex=6afbe690&is=6afa9510&hm=d491a6d73870d1ae3089399a552dc1d9b80a6e9d9181d99df200d8b9683c965c&"/>
-</h1>
+<p align="center">
+ <img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571786223792554005/d68922f5db548febfaeb2851393ffb68-Photoroom.png?ex=6afbff7e&is=6afaadfe&hm=1d2a0b54d535ab629d9771e7335ff46eb8be6264280764c71dfadc7ef75cf400"/>
+</p>
 
 <h1 align="center">
   𝚅𝚊𝚗ity!
