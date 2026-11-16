@@ -35,7 +35,7 @@
     <br>
     TIMEZONE — Western Indonesia Time
     <br>
-    I'm a Hungary kin!
+    I'm a Germany, Russia, and Hungary kin!
 </p>
 
 <p align="center">
