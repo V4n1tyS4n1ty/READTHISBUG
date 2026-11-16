@@ -1,5 +1,6 @@
 <p align="center">
-<gif src="[https://tenor.com/gpWax13oj1z.gif](https://klipy.com/gifs/ludwig-8)"/>
+<gif src="<img width="735" height="619" alt="image" src="https://github.com/user-attachments/assets/15d4b33a-a060-48d5-bf36-b9d9f4d9f6bb" />
+"/>
 </p>
 
 <h1 align="center">
