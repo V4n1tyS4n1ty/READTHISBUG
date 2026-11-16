@@ -8,7 +8,7 @@
   <br>"Why are you only fast when you're running away?!"</br>
   <br></br>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571758430446690405/Untitled56_20261116122640.png?ex=6afbe59b&is=6afa941b&hm=a4e56812a4847f04b5754655f7cd13dc5a2dd54e1db4582a0f6d7724be021e24&"/>
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571758430446690405/Untitled56_20261116122640.png?ex=6afbe59b&is=6afa941b&hm=a4e56812a4847f04b5754655f7cd13dc5a2dd54e1db4582a0f6d7724be021e24&"width="55%"/>
 <h1 align="center">
 𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋 𝐀𝐑𝐂𝐇𝐈𝐕𝐄
 </h1>
@@ -20,7 +20,7 @@
 </h3>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571761589420425266/Untitled58_20261116123400.png?ex=6afbe88c&is=6afa970c&hm=a64fd273f72fe7ef4825983b600f06bce11d22e37dc6d8991aeddf0c37e71177&" width="55%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571761589420425266/Untitled58_20261116123400.png?ex=6afbe88c&is=6afa970c&hm=a64fd273f72fe7ef4825983b600f06bce11d22e37dc6d8991aeddf0c37e71177&"/>
 </p>
 
 <h1 align="center">𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍</h1>
