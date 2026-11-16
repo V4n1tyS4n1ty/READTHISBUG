@@ -78,10 +78,6 @@ ORNITHOLOGY · LISTENING TO MUSIC · AND SO MUCH MORE!
 </p>
 
 <p align="center">
-[Hobbies Interests.]
-</p>
-
-<p align="center">
 ━━━━━━━━━━━━━━━━━━━━━
 </p>
 
