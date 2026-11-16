@@ -13,11 +13,11 @@
 𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋 𝐀𝐑𝐂𝐇𝐈𝐕𝐄
 </h1>
   
-<p align="center">
+<h3 align="center">
 <sub>
   " After this run is over, we're getting lunch! "
 </sub>
-</p>
+</h3>
 
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1535761425270841365/1570109204424040648/ba2a391f1.png?ex=6af5e5a5&is=6af49425&hm=555849dc90e3cecae82d306e0faee424a4577781a729c72a706b011fd505ec1c&=&format=webp&quality=lossless" width="55%" />
