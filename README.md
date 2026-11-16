@@ -4,7 +4,7 @@
 
 <h1 align="center">
   𝚅𝚊𝚗ity!
-  <p align="center">
+  <h3 align="center">
   <br>"Why are you only fast when you're running away?!"</br>
   <br></br>
 <p align="center">
