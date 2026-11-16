@@ -108,7 +108,7 @@ ORNITHOLOGY · LISTENING TO MUSIC · AND SO MUCH MORE!
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1535761425270841365/1570173487446892764/75665994_original4.png?ex=6af62183&is=6af4d003&hm=f3c362335a59349cfb3f551e310247219183aa8ab3d0bdc0c040a9189cbb955c&=&format=webp&quality=lossless" width="60%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571806718101553172/2787525aceec72703c6920b0bf580df2-cropped.jpg?ex=6afc1294&is=6afac114&hm=925343bce4bc6e5837d2074d394f139774bb1399aad67b0e52e6ed5f0f06fb36"/>
 </p>
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━
