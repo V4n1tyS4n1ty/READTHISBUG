@@ -29,7 +29,7 @@
   <p align="center">
   </p>
 <p align="center">
-    NAME — Vanity, Van, Vannie, Vanbug, Verity [UNFORTUNATELY]
+    NAME — Vanity, Van, Vannie, Vanbug
     <br>
     PRONOUNS — Any [gender apathethic/apagender]
     <br>
