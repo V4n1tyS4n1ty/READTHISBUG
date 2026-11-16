@@ -25,7 +25,7 @@
 
 <h1 align="center">𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍</h1>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571763135604588595/Untitled59_20261116124514.png?ex=6afbe9fd&is=6afa987d&hm=d89f590f797abc749ebf83f3547840d8dc05d4ca03f7426824a2eb94bcb873a1&" width="45%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571763838255112232/Untitled59_20261116124807.png?ex=6afbeaa5&is=6afa9925&hm=aceae658c867b37fb94482995ad4e787ea4a4b5fb4e600e3bdb6a53a7dd3682f&" width="45%" />
   <p align="center">
   </p>
 <p align="center">
