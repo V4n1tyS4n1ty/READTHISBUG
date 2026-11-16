@@ -31,7 +31,7 @@
 <p align="center">
     NAME — Vanity, Van, Vannie, Vanbug
     <br>
-    PRONOUNS — Any [gender apathethic/apagender]
+    PRONOUNS — Any [agender + gender apathethic/apagender]
     <br>
     TIMEZONE — Western Indonesia Time
     <br>
