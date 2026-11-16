@@ -55,9 +55,9 @@ Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently 
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1535761425270841365/1570110266866401431/75665994_original2.png?ex=6af5e6a2&is=6af49522&hm=96043dfe98e6aba6cab9bd4477a74e23e85090d40a83a948da593ef0d44aab46&=&format=webp&quality=lossless" width="55%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571785454435569805/fa3681dce7772bebf6781369313da972-Photoroom.png?ex=6afbfec6&is=6afaad46&hm=e14db60a8e75b50e9c3234bf3e1cfc0b99f368e8cd4d083b7a409b9b6d728c5f&" width="55%" />
   <p align="center">
-<img src="https://media.discordapp.net/attachments/1535761425270841365/1570109204424040648/ba2a391f1.png?ex=6af5e5a5&is=6af49425&hm=555849dc90e3cecae82d306e0faee424a4577781a729c72a706b011fd505ec1c&=&format=webp&quality=lossless" width="35%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571785454997737554/0032fce468f8f683a6fc8d2454fed52b-Photoroom.png?ex=6afbfec6&is=6afaad46&hm=f8fd34e314632b405c7be274f84643c74f267fe3036bceb8ebabe041be012141&" width="35%" />
 </p>
 
 <p align="center">
