@@ -55,8 +55,8 @@ Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently 
 </p>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571785454435569805/fa3681dce7772bebf6781369313da972-Photoroom.png?ex=6afbfec6&is=6afaad46&hm=e14db60a8e75b50e9c3234bf3e1cfc0b99f368e8cd4d083b7a409b9b6d728c5f&" width="45%" />
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571785454997737554/0032fce468f8f683a6fc8d2454fed52b-Photoroom.png?ex=6afbfec6&is=6afaad46&hm=f8fd34e314632b405c7be274f84643c74f267fe3036bceb8ebabe041be012141&" width="45%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571785454435569805/fa3681dce7772bebf6781369313da972-Photoroom.png?ex=6afbfec6&is=6afaad46&hm=e14db60a8e75b50e9c3234bf3e1cfc0b99f368e8cd4d083b7a409b9b6d728c5f&" width="45" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571785454997737554/0032fce468f8f683a6fc8d2454fed52b-Photoroom.png?ex=6afbfec6&is=6afaad46&hm=f8fd34e314632b405c7be274f84643c74f267fe3036bceb8ebabe041be012141&" width="45" />
   <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571786223792554005/d68922f5db548febfaeb2851393ffb68-Photoroom.png?ex=6afbff7e&is=6afaadfe&hm=1d2a0b54d535ab629d9771e7335ff46eb8be6264280764c71dfadc7ef75cf400"/>
 </p>
@@ -68,7 +68,7 @@ Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently 
 <h2 align="center">𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓𝐒 & 𝐇𝐎𝐁𝐁𝐈𝐄𝐒</h2>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571789217250410526/73699d6ee03ec8ed889f9df9348763c0-Photoroom.png?ex=6afc0247&is=6afab0c7&hm=176c77bc2f5fe8093d48122b554fd513a69e20570a92ea5d485301a651957d2d" width="200%"/>
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571789217250410526/73699d6ee03ec8ed889f9df9348763c0-Photoroom.png?ex=6afc0247&is=6afab0c7&hm=176c77bc2f5fe8093d48122b554fd513a69e20570a92ea5d485301a651957d2d" width="200"/>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ ORNITHOLOGY · LISTENING TO MUSIC · AND SO MUCH MORE!
 </p>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571790335674286170/1421ee693a964e2b1cc4a7aee6680331-Photoroom.png?ex=6afc0352&is=6afab1d2&hm=59212853ab5d23eeb69fef5340d89d01fbf2ca6dcabced1a0e54637274b79414"width="200%" />
+<img src="https://cdn.discordapp.com/attachments/1546911644653723749/1571790335674286170/1421ee693a964e2b1cc4a7aee6680331-Photoroom.png?ex=6afc0352&is=6afab1d2&hm=59212853ab5d23eeb69fef5340d89d01fbf2ca6dcabced1a0e54637274b79414"width="200" />
 </p>
 
 <h2 align="center">𝐅𝐀𝐍𝐃𝐎𝐌𝐒</h2>
