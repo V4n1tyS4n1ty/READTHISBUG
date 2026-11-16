@@ -44,6 +44,8 @@
 
 <h2 align="center">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</h2>
 
+<img src="(https://cdn.discordapp.com/attachments/1546911644653723749/1571773270007615488/Untitled59_20261116132445.jpg?ex=6afbf36d&is=6afaa1ed&hm=e1010a894b715a2ca968adcdbb9149d11baea8e35dd3fd78c678e1320fc69cd9&)"/>
+
 <p align="center">
 Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently a biology major! I was diagnosed with persistent depressive disorder n i suspect myself to have ADHD, though i haven't tried getting diagnosed due to financial issues. I love chatting with people! i'm just VERY VERY shy at first n overthink a lot! I love fun, chaos, and being a nerdy nerd about things i love! heads up though! if anything i do or say makes you uncomfortable let me know! as much of a menace i am, i still wanna be a good person who js likes to yap a lot!
 <br><br>
