@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently a biology major! I was diagnosed with persistent depressive disorder n i suspect myself to have ADHD, though i haven't tried getting diagnosed due to financial issues. I love chatting with people! i'm just VERY VERY shy at first n overthink a lot! I love fun, chaos, and being a nerdy nerd about things i love! heads up though! if anything i do or say makes you uncomfortable let me know! as much of a menace i am, i still wanna be a good person who js likes to yap a lot!
+Hello friends and welcome foes! I'm an Indonesian artist, writer, and currently a biology major! i am a big yappy yap but EXTREMELY nervous when it comes to starting a conversation with others, just know that i would LOVE to chat with you, i simply don't have the courage! you can find me on Ponytown, Roblox or Discord!
 <br><br>
 
 </p>
