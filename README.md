@@ -140,7 +140,7 @@ No unwanted familiarity · Respect privacy
  <a href="https://docs.google.com/document/d/1wyNzg1tvnImvx21BDV3Mm0mzSOJ399_FvMTk8GSRl20/edit?usp=drivesdk">
    Read before interacting!
     <br></br>
-  <a href="https://v4n1tyz.atabook.org/">
+  <a href="https://vanitysarchive.atabook.org/">
    Atabook!
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━
